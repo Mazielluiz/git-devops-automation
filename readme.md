@@ -1,5 +1,4 @@
 
-set paste
 
 # 🚀 Projeto Exemplo com Git
 
