@@ -1,7 +1,5 @@
-set paste
-Claro 👍 Segue exatamente o texto que aparece no print:
 
----
+set paste
 
 # 🚀 Projeto Exemplo com Git
 
